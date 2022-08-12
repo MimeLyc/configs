@@ -1859,6 +1859,7 @@ k8s.io/cli-runtime v0.17.2/go.mod h1:aa8t9ziyQdbkuizkNLAw3qe3srSyWh9zlSB7zTqRNPI
 k8s.io/cli-runtime v0.17.3/go.mod h1:X7idckYphH4SZflgNpOOViSxetiMj6xI0viMAjM81TA=
 k8s.io/client-go v0.20.2 h1:uuf+iIAbfnCSw8IGAv/Rg0giM+2bOzHLOsbbrwrdhNQ=
 k8s.io/client-go v0.20.2/go.mod h1:kH5brqWqp7HDxUFKoEgiI4v8G1xzbe9giaCenUWJzgE=
+k8s.io/client-go v1.5.2/go.mod h1:OmM68YRko3DQ0sjlnWxzjQF9lcSLHJXuGMTo23rc7wI=
 k8s.io/cloud-provider v0.17.0/go.mod h1:Ze4c3w2C0bRsjkBUoHpFi+qWe3ob1wI2/7cUn+YQIDE=
 k8s.io/cloud-provider v0.17.4/go.mod h1:XEjKDzfD+b9MTLXQFlDGkk6Ho8SGMpaU8Uugx/KNK9U=
 k8s.io/code-generator v0.0.0-20190612205613-18da4a14b22b/go.mod h1:G8bQwmHm2eafm5bgtX67XDZQ8CWKSGu9DekI+yN4Y5I=
